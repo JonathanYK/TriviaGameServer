@@ -37,3 +37,10 @@ These 2 classes are responsible for the connectivity of client-server.
 Terminal.java:
 This class was added in order to add new questions manually to the database 
 or import new questions to the database using API integration from https://opentdb.com/ 
+
+
+
+-----------------------------------------------------------------------------------------------
+The client side of this project could be found here:
+https://github.com/XDavidT/TriviaApp/tree/master/app/src/main/java/com/google/finalproject
+-----------------------------------------------------------------------------------------------
