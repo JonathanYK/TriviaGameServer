@@ -2,7 +2,7 @@
 Trivia Game -  server side, includes API & MySQL integration.
 
 
-This is my final project for the course Android 1 in my university (Holon Institute of Technology), it includes 9 java files:
+This is my final project for the course Android 1 in my institute (Holon Institute of Technology), it includes 9 java files:
 
 apiImport.java:
 Created in order to import questions from https://opentdb.com/ API to local SQL DataBase, by creating ArrayList of the questions, 
